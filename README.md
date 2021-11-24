@@ -70,4 +70,12 @@ Yajra datatables - https://github.com/yajra/laravel-datatables
         <a href="https://cdn.datatables.net/buttons/2.0.1/js/buttons.print.min.js">https://cdn.datatables.net/buttons/2.0.1/js/buttons.print.min.js</a>
     </li>
 </ul>
+```bash
+ <!-- SweetAlert2 -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/7.2.0/sweetalert2.min.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/7.2.0/sweetalert2.all.min.js"></script>
+  <!-- toaster js -->
+  //cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js
+//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css
+```
 
