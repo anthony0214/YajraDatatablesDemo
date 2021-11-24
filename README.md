@@ -46,6 +46,7 @@ Yajra datatables - https://github.com/yajra/laravel-datatables
 
 <!-- Latest compiled JavaScript -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/js/bootstrap.bundle.min.js"></script>
+```
 <ul>
     <li>
         <a href="https://code.jquery.com/jquery-3.5.1.js">https://code.jquery.com/jquery-3.5.1.js</a>
@@ -72,4 +73,4 @@ Yajra datatables - https://github.com/yajra/laravel-datatables
         <a href="https://cdn.datatables.net/buttons/2.0.1/js/buttons.print.min.js">https://cdn.datatables.net/buttons/2.0.1/js/buttons.print.min.js</a>
     </li>
 </ul>
-```
+
