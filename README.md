@@ -49,9 +49,6 @@ Yajra datatables - https://github.com/yajra/laravel-datatables
 ```
 <ul>
     <li>
-        <a href="https://code.jquery.com/jquery-3.5.1.js">https://code.jquery.com/jquery-3.5.1.js</a>
-    </li>
-    <li>
         <a href="https://cdn.datatables.net/1.11.3/js/jquery.dataTables.min.js">https://cdn.datatables.net/1.11.3/js/jquery.dataTables.min.js</a>
     </li>
     <li>
