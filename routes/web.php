@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\CountriesController;
 
 /*
 |--------------------------------------------------------------------------
@@ -16,3 +17,8 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+
+Route::get('countries-list',[CountriesController::class, 'index'])->name('countries.list');
+
+Route::post('/add-country',[CountriesController::class,'addCountry'])->name('add.country');
